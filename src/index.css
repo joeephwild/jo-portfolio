@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#1E1E1E] text-[#ffffff];
+  @apply bg-[#1E1E1E] text-[#ffffff] overflow-x-hidden;
 }
 
 @font-face {
